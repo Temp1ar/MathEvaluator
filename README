@@ -1,0 +1,10 @@
+MathEvaluator is a simple integer-type solver, that handles lazy calculations,
+functions and variables. Input example:
+
+ a = -3
+ b = (3 + a) * l
+ f(x) = x * x
+ f(b) / 10 + 7
+
+ Output will be 7.
+This file was modified by IntelliJ IDEA 10.5.4 for binding GitHub repository
